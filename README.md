@@ -7,8 +7,8 @@
 <br/>
 
 <p align="center">
-  <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.16.1">
-    <img src="https://img.shields.io/badge/node.js@lts-12.16.1-informational?logo=Node.JS"></img>
+  <a aria-label="Versão do React" href="#">
+    <img src="https://img.shields.io/badge/react-16.13.1-informational?logo=react"></img>
   </a>
     
   <a aria-label="Rocketseat" href="#">

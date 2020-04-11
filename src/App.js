@@ -18,7 +18,7 @@ function App() {
     const response = await api.post('repositories', {
       title:`Projeto GoStack${Date.now()}`,
       url: `https://github.com.br/${Date.now()}`, 
-      techs:`ReactRS-${Date.now()}, NodeJS-${Date.now()}`,
+      techs: ['ReactJS','React Native', 'Node.js'],
     });
     const repository = response.data;
     setRepositories([...repositories,repository]);
